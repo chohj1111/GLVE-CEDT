@@ -1,6 +1,7 @@
 ## Cross Encoder-Decoder Transformer with Global-Local Visual Extractor for Medical Image Captioning (MDPI Sensors)
 
 **Cross Encoder-Decoder Transformer with Global-Local Visual Extractor for Medical Image Captioning**
+
 Hojun Lee, Hyunjun Cho, Jieun Park, Jinyeong Chae and Jihie Kim.
 [Paper](https://www.mdpi.com/1424-8220/22/4/1429) 
 
